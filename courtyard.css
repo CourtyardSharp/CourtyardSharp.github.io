@@ -1,0 +1,21 @@
+html {
+    background-color: #1D2018;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: yellow;
+}
+#notice {
+    border-style: solid;
+    border-color: white;
+    padding-left: 10px;
+    /* border-radius: 15px; */
+    border-width: 5px;
+
+}
+
+li {
+    padding-left: 100px;
+}
